@@ -1,0 +1,116 @@
+<!doctype html>
+<html> 
+        <head> 
+        <meta charset="utf-8"/>
+        <title> primera perctica </title>
+        </head> 
+        <body bgcolor=#fff000>
+<title>Menu Desplegable</title>
+  <style type="text/css">
+   
+   * {
+    margin:0px;
+    padding:0px;
+   }
+   
+   #header {
+    margin:auto;
+    width:500px;
+    font-family:Arial, Helvetica, sans-serif;
+   }
+   
+   ul, ol {
+    list-style:none;
+   }
+   
+   .nav > li {
+    float:left;
+   }
+   
+   .nav li a {
+    background-color:#000;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+   }
+   
+   .nav li a:hover {
+    background-color:#kl928;
+   }
+   
+   .nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+   }
+   
+   .nav li:hover > ul {
+    display:block;
+   }
+   
+   .nav li ul li {
+    position:relative;
+   }
+   
+   .nav li ul li ul {
+    right:-140px;
+    top:0px;
+   }
+   
+  </style>
+ </head>
+ <body>
+<body background="13.jpg" bgcolor="#fff000">
+<table>
+  <div id="header">
+   <ul class="nav">
+    <li><a href="">office</a>
+     <ul>
+      <li><a href=https://onedrive.live.com/edit.aspx?action=editnew&resid=4576AA66F91E9751!394&ithint=file%2cdocx&wdNewAndOpenCt=1576765710379&wdPreviousSession=d5528f74-c2e1-4849-bffe-1fc64ae7f58b&wdOrigin=OFFICECOM-WEB.START.NEW>word</a></li><img src="1.jpg"whith="50" height="50"/>
+      <li><a href="https://onedrive.live.com/edit.aspx?action=editnew&resid=4576AA66F91E9751!396&ithint=file%2cxlsx&wdNewAndOpenCt=1576765841043&wdPreviousSession=880b3116-c76a-4f2f-94d6-09b54ab75bcc&wdOrigin=OFFICECOM-WEB.START.NEW">excel</a></li><img src="2.jpg"whith="50" height="50"/>
+      <li><a href="https://onedrive.live.com/edit.aspx?action=edit&resid=4576AA66F91E9751!399&ithint=file%2cpptx&wdNewAndOpenCt=1576765958339&wdPreviousSession=35bd6823-99d7-45c8-a11b-8aee7fb0dd78&wdOrigin=OFFICECOM-WEB.START.NEW">power point</a></li><img src="3+.jpg"whith="50" height="50"/>
+     </ul>
+    </li>
+    <li><a href="">redes sociales</a>
+     <ul>
+      <li><a href="https://www.facebook.com/">facebook</a></li><img src="4.jpg"whith="50" height="50"/>
+      <li><a href="https://www.instagram.com/?hl=es-la">instagram</a></li><img src="6.jpg"whith="50" height="50"/>
+      <li><a href="https://web.whatsapp.com/">wassap</a></li><img src="10.jpg"whith="50" height="50"/>
+      <li><a href="https://twitter.com/login?lang=es">twiter</a></li><img src="7.jpg"whith="50" height="50"/>
+     </ul>
+    </li>
+     <li><a href="">utilitarios</a>
+     <ul>
+      <li><a href="https://web.whatsapp.com/">wassap</a></li><img src="6.jpg"whith="50" height="50"/>
+      <li><a href="https://www.google.com/maps/d/viewer?mid=1tBKX-TNubIZVdjvSvAedcWg1Dms&msa=0&ll=43.337615023521124%2C-5.860190893681647&z=13">ubicacion</a></li><img src="11.jpg"whith="50" height="50"/>
+      <li><a href="https://www.winrar.es/descargas/103">descarga de un archivo</a></li><img src="9.jpg"whith="50" height="50"/>
+     </ul>
+    </li>
+  </div>
+<br><br><br><br><br><br><br><br>
+        <table border="1">
+        <tr>
+        <td>
+
+<form method="get" action="file:///C:/Users/HP/Documents/deber%20dise%C3%B1o/trabajo13.html">
+<input type="submit" value="videos editados" />
+</form>
+        <td><audio src="MUSICA.mp3" preload="none" controls></audio>
+        <audio src="MUSICA.ogg" autoplay loop></audio></td>
+         <td><left><p align=left><img src="para.gif"width="200" height="300"></p></left></td>   
+        <td><p align=center> <img src="explota.jpg" whith="200" height="200"/> </p></td>
+        <center><video src="video.mp4" width=400  height=400 controls poster="volcan.jpg"/></center>
+        <center><video src="trabajo de diseño wed.mp4" width=400  height=400 controls poster="volcan.jpg"/></center>
+       </td> 
+         <tr>
+         <td>  
+         <h1><font face="roma" size=5 color="orange"><p align=center>"Tungurahua es un estratovolc�n activo situado en la zona andina de Ecuador. El volc�n se alza en la Cordillera Oriental de Ecuador l�mite de las provincias de Chimborazo y Tungurahua, y da nombre a esta �ltima. </p></font></h1>
+         <h1><font face="ariel" size=6 color="orange"><p align=center>Est� frecuentemente en erupci�n, las �ltimas m�s violentas han tenido lugar el 14 de julio de 2006, 16 de agosto de 2006, 28 de mayo de 2008, 26 de abril de 2010, 20 de agosto de 2012, el 1 de febrero de 2014  </p></font></h1>
+         <h1><font face="calibre" size=4 color="orange"><p align=center> a m�s reciente el 27 de febrero de 2016. El Instituto Geof�sico, EPN monitorea la actividad del volc�n Tungurahua y otros volcanes en las monta�as de los Andes de Ecuador y en las Islas Gal�pagos.</p></font></h1>
+        <td><p align=center> <img src="volcan.jpg" whith="200" height="200"/> </p></td>
+         <td><left><p align=left><img src="MOVIE2.gif"width="200" height="300"></p></left></td>  
+         <h5><font face="roma" size=5 color="arange"><p align=center><a href="https://web.whatsapp.com/">whatssap wed</a><img src="10.jpg"whith="60" height="70"/></p></font></h5>
+         </body>
+</table>
+</html>
